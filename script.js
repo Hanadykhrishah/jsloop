@@ -1,21 +1,18 @@
 var userName = prompt ('please enter your name');
-alert ('welcome to my webpage' + userName );
-var userAge = ('pleaes enter your Age');
-prompt ('please enter your age');
+alert ('welcome to my webpage' + userName )
+var favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
 
-var favPitAnimal = prompt ('please enter your fav pit animal chooes cats or dogs');
-
-while (favPitAnimal != 'cat' && userAge != 27)
-{
+while (favPitAnimal != 'cat') {
   
-  userAge = ('pleaes enter your Age');
-  favPitAnimal = prompt ('please enter your fav pit animal chooes cats or dogs');
-   userAge = ('pleaes enter your Age');
-  favPitAnimal = prompt ('please enter your fav pit animal chooes cats or dogs');
+  favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
+  favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
+   favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
+
   break;
+ 
 }
 
-var numberOfFishs = prompt ('how many fishs you want?');
+var numberOfFishs = prompt ('how many fishs do you want?');
 
 for (var i = 0; i < numberOfFishs; i++ )
 {
