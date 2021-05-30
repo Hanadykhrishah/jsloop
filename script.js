@@ -5,10 +5,7 @@ var favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
 while (favPitAnimal != 'cat') {
   
   favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
-  favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
-   favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
-
-  break;
+  
  
 }
 
