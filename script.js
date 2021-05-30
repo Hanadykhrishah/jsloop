@@ -6,7 +6,6 @@ while (favPitAnimal != 'cat') {
   
   favPitAnimal = prompt ('please enter your fav pit animal chooes (cat)');
   
- 
 }
 
 var numberOfFishs = prompt ('how many fishs do you want?');
